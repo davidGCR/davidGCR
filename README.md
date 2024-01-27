@@ -56,7 +56,7 @@ I am a passionate about Machine Learning, Deep Learning, Computer Vision, and Da
 
 ## Find me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Choqueluque-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]([https://www.linkedin.com/in/braismoure](https://www.linkedin.com/in/david-g-choqueluque-roman-71a455157/))
-
+[![googlescholar](https://img.shields.io/badge/googlescholar-David_Choqueluque-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=101010)](https://scholar.google.com/citations?user=6UnwuwcAAAAJ&hl=en)
 
 <!--
 **davidGCR/davidGCR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
