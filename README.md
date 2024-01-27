@@ -8,6 +8,8 @@ I have 3 of experience as a Data Engineer and 1 year as a Machine Learning Engin
 
 I am a passionate about Machine Learning, Deep Learning, Computer Vision, and Data Science.
 
+Below, some technologies I have experience:
+
 
 ### Machine Learning Frameworks & Tools:
 [![Tensorflow](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=101010)]()
