@@ -2,7 +2,7 @@
 
 I am a software developer with a strong background in Computer Science. 
 
-I have 3 of experience as a full-stack developer including front-end, back-end, cloud development with AWS. 
+I have 3 of experience as a full-stack developer including front-end, back-end, and cloud development with AWS. 
 
 I have 3 of experience as a Data Engineer and 1 year as a Machine Learning Engineer. 
 
@@ -22,9 +22,9 @@ I am a passionate about Machine Learning, Deep Learning, Computer Vision, and Da
 [![Fast Api](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=101010)]()
 [![Numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=101010)]()
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFDA44?style=for-the-badge&logo=textpattern&logoColor=white&labelColor=101010)]()
-[![AWS](https://img.shields.io/badge/AWSSagemaker-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
+[![AWS](https://img.shields.io/badge/AWS_Sagemaker-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-FFDA44?style=for-the-badge&logo=plotly&logoColor=white&labelColor=101010)]()
-[![apacheairflow](https://img.shields.io/badge/apachea_irflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white&labelColor=101010)]()
+[![apacheairflow](https://img.shields.io/badge/apache_airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white&labelColor=101010)]()
 
 
 ### Programming Languages:
