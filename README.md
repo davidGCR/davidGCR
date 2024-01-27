@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a software developer with a strong background in Computer Science. I have three years of experience as a full-stack developer including front-end, back-end, cloud development with AWS. I have three years of experience as a Data Engineer and one year as a Machine Learning Engineer. I have a strong background in Machine Learning, Deep Learning, Computer Vision, Parallel Programming, Video Processing, and Natural Language Processing (NLP). Actually, I am looking for opportunities to do research or to participate in projects about Machine Learning in fields such as Computer Vision, NLP, and Data Science.
+
 <!--
 **davidGCR/davidGCR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
