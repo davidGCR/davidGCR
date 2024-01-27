@@ -37,8 +37,8 @@ I am a passionate about Machine Learning, Deep Learning, Computer Vision, and Da
 ### Cloud
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
 [![terraform](https://img.shields.io/badge/terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white&labelColor=101010)]()
-[![serverless](https://img.shields.io/badge/serverlessframework-FD5750?style=for-the-badge&logo=serverless&logoColor=white&labelColor=101010)]()
-[![apacheairflow](https://img.shields.io/badge/apacheairflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white&labelColor=101010)]()
+[![serverless](https://img.shields.io/badge/serverless_framework-FD5750?style=for-the-badge&logo=serverless&logoColor=white&labelColor=101010)]()
+[![apacheairflow](https://img.shields.io/badge/apache_airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white&labelColor=101010)]()
 
 ### Data Engineering:
 [![apachespark](https://img.shields.io/badge/apachespark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white&labelColor=101010)]()
@@ -55,7 +55,7 @@ I am a passionate about Machine Learning, Deep Learning, Computer Vision, and Da
 </br>
 
 ## Find me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Choqueluque-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]([https://www.linkedin.com/in/braismoure](https://www.linkedin.com/in/david-g-choqueluque-roman-71a455157/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Choqueluque-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]([https://www.linkedin.com/in/braismoure](https://www.linkedin.com/in/david-g-choqueluque-roman-71a455157/)
 [![googlescholar](https://img.shields.io/badge/googlescholar-David_Choqueluque-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=101010)](https://scholar.google.com/citations?user=6UnwuwcAAAAJ&hl=en)
 
 <!--
