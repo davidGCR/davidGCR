@@ -25,6 +25,7 @@ I am a passionate about Machine Learning, Deep Learning, Computer Vision, and Da
 [![AWS](https://img.shields.io/badge/AWS_Sagemaker-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-FFDA44?style=for-the-badge&logo=plotly&logoColor=white&labelColor=101010)]()
 [![apacheairflow](https://img.shields.io/badge/apache_airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white&labelColor=101010)]()
+[![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)]()
 
 
 ### Programming Languages:
@@ -44,6 +45,7 @@ I am a passionate about Machine Learning, Deep Learning, Computer Vision, and Da
 [![terraform](https://img.shields.io/badge/terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white&labelColor=101010)]()
 [![serverless](https://img.shields.io/badge/serverless_framework-FD5750?style=for-the-badge&logo=serverless&logoColor=white&labelColor=101010)]()
 [![apacheairflow](https://img.shields.io/badge/apache_airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white&labelColor=101010)]()
+[![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)]()
 
 ### Data Engineering:
 [![apachespark](https://img.shields.io/badge/apache_spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white&labelColor=101010)]()
