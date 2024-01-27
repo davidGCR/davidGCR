@@ -34,6 +34,11 @@ I am a passionate about Machine Learning, Deep Learning, Computer Vision, and Da
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 
+### Parallel Programming:
+[![Cuda](https://img.shields.io/badge/CUDA-A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=101010)]()
+[![OpenMP](https://img.shields.io/badge/OpenMP-000000?style=for-the-badge&logo=threads&logoColor=white&labelColor=101010)]()
+[![Opengl](https://img.shields.io/badge/opengl-5586A4?style=for-the-badge&logo=opengl&logoColor=white&labelColor=101010)]()
+
 ### Cloud
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
 [![terraform](https://img.shields.io/badge/terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white&labelColor=101010)]()
@@ -43,7 +48,7 @@ I am a passionate about Machine Learning, Deep Learning, Computer Vision, and Da
 ### Data Engineering:
 [![apachespark](https://img.shields.io/badge/apache_spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white&labelColor=101010)]()
 [![scala](https://img.shields.io/badge/scala-DC322F?style=for-the-badge&logo=scala&logoColor=white&labelColor=101010)]()
-[![apacheairflow](https://img.shields.io/badge/apachea_irflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white&labelColor=101010)]()
+[![apacheairflow](https://img.shields.io/badge/apache_airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white&labelColor=101010)]()
 
 ### Web Development
   [![Angular](https://img.shields.io/badge/Angular-232F3E?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()
