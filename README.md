@@ -18,13 +18,13 @@ I am a passionate about Machine Learning, Deep Learning, Computer Vision, and Da
 [![Jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=101010)]()
 [![OpenCV](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=101010)]()
 [![Octave](https://img.shields.io/badge/octave-0790C0?style=for-the-badge&logo=octave&logoColor=white&labelColor=101010)]()
-[![Google Colab](https://img.shields.io/badge/google-colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white&labelColor=101010)]()
+[![Google Colab](https://img.shields.io/badge/google_colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white&labelColor=101010)]()
 [![Fast Api](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=101010)]()
 [![Numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=101010)]()
-[![Hugging Face](https://img.shields.io/badge/HuggingFace-FFDA44?style=for-the-badge&logo=textpattern&logoColor=white&labelColor=101010)]()
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFDA44?style=for-the-badge&logo=textpattern&logoColor=white&labelColor=101010)]()
 [![AWS](https://img.shields.io/badge/AWSSagemaker-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-FFDA44?style=for-the-badge&logo=plotly&logoColor=white&labelColor=101010)]()
-[![apacheairflow](https://img.shields.io/badge/apacheairflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white&labelColor=101010)]()
+[![apacheairflow](https://img.shields.io/badge/apachea_irflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white&labelColor=101010)]()
 
 
 ### Programming Languages:
@@ -41,9 +41,9 @@ I am a passionate about Machine Learning, Deep Learning, Computer Vision, and Da
 [![apacheairflow](https://img.shields.io/badge/apache_airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white&labelColor=101010)]()
 
 ### Data Engineering:
-[![apachespark](https://img.shields.io/badge/apachespark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white&labelColor=101010)]()
+[![apachespark](https://img.shields.io/badge/apache_spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white&labelColor=101010)]()
 [![scala](https://img.shields.io/badge/scala-DC322F?style=for-the-badge&logo=scala&logoColor=white&labelColor=101010)]()
-[![apacheairflow](https://img.shields.io/badge/apacheairflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white&labelColor=101010)]()
+[![apacheairflow](https://img.shields.io/badge/apachea_irflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white&labelColor=101010)]()
 
 ### Web Development
   [![Angular](https://img.shields.io/badge/Angular-232F3E?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()
@@ -55,7 +55,7 @@ I am a passionate about Machine Learning, Deep Learning, Computer Vision, and Da
 </br>
 
 ## Find me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Choqueluque-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]([https://www.linkedin.com/in/braismoure](https://www.linkedin.com/in/david-g-choqueluque-roman-71a455157/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Choqueluque-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/david-g-choqueluque-roman-71a455157/)
 [![googlescholar](https://img.shields.io/badge/googlescholar-David_Choqueluque-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=101010)](https://scholar.google.com/citations?user=6UnwuwcAAAAJ&hl=en)
 
 <!--
