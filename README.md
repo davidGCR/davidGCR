@@ -67,6 +67,20 @@ Below, some technologies I have experience:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Choqueluque-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/david-g-choqueluque-roman-71a455157/)
 [![googlescholar](https://img.shields.io/badge/googlescholar-David_Choqueluque-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=101010)](https://scholar.google.com/citations?user=6UnwuwcAAAAJ&hl=en)
 
+## Below, some of projects about Machine Learning and Computer Vision
+- [Violence Detection](https://github.com/davidGCR/Action-Tubes-for-Violence-Detection)
+- [Support Vector Machines - My analysis](https://github.com/davidGCR/suport-vector-machines-analysis)
+- [Deep Estimation for Autonomous Driving](https://github.com/davidGCR/depth_estimation_autonomous)
+- [Spanish Sentiment Analysis](https://github.com/davidGCR/SpanishSentimentAnalisis)
+- [Camera Calibrator](https://github.com/davidGCR/CalibradorCamara)
+- [Skeleton Animation of 3D models](https://github.com/davidGCR/Animacion-Esqueletica-de-modelos-3D-en-Opengl3.-)
+- [Training Machine Learning models for Kaggle Competitions](https://github.com/davidGCR/machine-learning-models)
+
+## Some of my projects about Data Engineering
+- [Lambda Conversor](https://github.com/davidGCR/aws_lambda_conversor_xls2csv)
+- [ETL Serverless](https://github.com/davidGCR/etl-aws-terraform)
+
+and more...
 <!--
 **davidGCR/davidGCR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
