@@ -8,7 +8,7 @@ I have 3 of experience as a full-stack developer including front-end, back-end, 
 
 I have 3 of experience as a Data Engineer and 1 year as a Machine Learning Engineer. 
 
-I am a passionate about Machine Learning, Deep Learning, Computer Vision, and Data Science.
+I am a passionate about Machine Learning, Deep Learning, Computer Vision, NLP, and Data Science.
 
 Below, some technologies I have experience:
 
