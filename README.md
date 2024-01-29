@@ -4,9 +4,9 @@ I am a software developer with a strong background in Computer Science.
 
 I hold a master degree in Computer Science mainly oriented to Machine Learning, Computer Vision, and NLP.
 
-I have 3 of experience as a full-stack developer including front-end, back-end, and cloud development with AWS. 
-
-I have 3 of experience as a Data Engineer and 1 year as a Machine Learning Engineer. 
+- I have 3 years of experience as a full-stack developer including front-end, back-end, and cloud development with AWS.
+- I have 3 years of experience as a Data Engineer and
+- 1 year as a Machine Learning Engineer. 
 
 I am a passionate about Machine Learning, Deep Learning, Computer Vision, NLP, and Data Science.
 
