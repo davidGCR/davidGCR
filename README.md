@@ -70,6 +70,7 @@ Below, some technologies I have experience:
 [![googlescholar](https://img.shields.io/badge/googlescholar-David_Choqueluque-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=101010)](https://scholar.google.com/citations?user=6UnwuwcAAAAJ&hl=en)
 
 ## Below, some of my projects about Machine Learning and Computer Vision
+- [MLOps](https://github.com/davidGCR/Heart-Dissease-Prediction-MLOps-CI-CD/tree/main)
 - [Violence Detection](https://github.com/davidGCR/Action-Tubes-for-Violence-Detection)
 - [Support Vector Machines - My analysis](https://github.com/davidGCR/suport-vector-machines-analysis)
 - [Deep Estimation for Autonomous Driving](https://github.com/davidGCR/depth_estimation_autonomous)
