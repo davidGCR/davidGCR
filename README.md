@@ -28,9 +28,13 @@ Below, some technologies I have experience:
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFDA44?style=for-the-badge&logo=textpattern&logoColor=white&labelColor=101010)]()
 [![AWS](https://img.shields.io/badge/AWS_Sagemaker-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-FFDA44?style=for-the-badge&logo=plotly&logoColor=white&labelColor=101010)]()
+
+### MLOps:
+[![AWS](https://img.shields.io/badge/AWS_Sagemaker-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
 [![apacheairflow](https://img.shields.io/badge/apache_airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white&labelColor=101010)]()
 [![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)]()
-
+[![circleci](https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white&labelColor=101010)]()
+[![Pypi](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white&labelColor=101010)]()
 
 ### Programming Languages:
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
@@ -70,7 +74,7 @@ Below, some technologies I have experience:
 [![googlescholar](https://img.shields.io/badge/googlescholar-David_Choqueluque-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=101010)](https://scholar.google.com/citations?user=6UnwuwcAAAAJ&hl=en)
 
 ## Below, some of my projects about Machine Learning and Computer Vision
-- [MLOps](https://github.com/davidGCR/Heart-Dissease-Prediction-MLOps-CI-CD/tree/main)
+- [Heart Dissease Prediction - MLOps - CI/CD](https://github.com/davidGCR/Heart-Dissease-Prediction-MLOps-CI-CD/tree/main)
 - [Violence Detection](https://github.com/davidGCR/Action-Tubes-for-Violence-Detection)
 - [Support Vector Machines - My analysis](https://github.com/davidGCR/suport-vector-machines-analysis)
 - [Deep Estimation for Autonomous Driving](https://github.com/davidGCR/depth_estimation_autonomous)
