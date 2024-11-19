@@ -6,9 +6,9 @@ I hold a master degree in Computer Science mainly oriented to Machine Learning, 
 
 - I have 3 years of experience as a full-stack developer including front-end, back-end, and cloud development with AWS.
 - I have 3 years of experience as a Data Engineer and
-- 1 year as a Machine Learning Engineer. 
+- 2 years as a Machine Learning Engineer. 
 
-I am a passionate about Machine Learning, Deep Learning, Computer Vision, NLP, and Data Science.
+I am a passionate about Machine Learning, Deep Learning, Computer Vision, NLP, GenAI, and Data Science.
 
 Below, some technologies I have experience:
 
