@@ -28,6 +28,7 @@ Below, some technologies I have experience:
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFDA44?style=for-the-badge&logo=textpattern&logoColor=white&labelColor=101010)]()
 [![AWS](https://img.shields.io/badge/AWS_Sagemaker-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-FFDA44?style=for-the-badge&logo=plotly&logoColor=white&labelColor=101010)]()
+[![LangChain](https://img.shields.io/badge/langchain?style=for-the-badge&logo=plotly&logoColor=white&labelColor=101010)]()
 
 ### MLOps:
 [![AWS](https://img.shields.io/badge/AWS_Sagemaker-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
