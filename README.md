@@ -85,6 +85,46 @@ Below, some technologies I have experience:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Choqueluque-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/david-g-choqueluque-roman-71a455157/)
 [![googlescholar](https://img.shields.io/badge/googlescholar-David_Choqueluque-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=101010)](https://scholar.google.com/citations?user=6UnwuwcAAAAJ&hl=en)
 
+---
+## 🚀 Projects: Machine Learning, NLP, and Computer Vision  
+Explore some of my key projects that showcase my skills in Machine Learning, NLP, and Computer Vision:
+
+### **NLP Projects**  
+- [Speech Analysis - NLP](https://github.com/davidGCR/speech-analytics-calls-monitoring)  
+  💡 **Automated speech monitoring** to analyze sales calls and improve team performance using NLP techniques.  
+- [Hiring Bot - NLP](https://github.com/davidGCR/hiring-bot)  
+  🤖 A **chatbot for resume screening**, leveraging fine-tuned models and prompt engineering to optimize recruitment.  
+- [Spanish Sentiment Analysis](https://github.com/davidGCR/SpanishSentimentAnalisis)  
+  🇪🇸 Developed a **sentiment analysis model** tailored for the Spanish language using custom datasets.
+
+### **Computer Vision Projects**  
+- [Violence Detection](https://github.com/davidGCR/Action-Tubes-for-Violence-Detection)  
+  🚨 Built an **action detection system** to identify violence in videos using action tubes and deep learning.  
+- [Deep Estimation for Autonomous Driving](https://github.com/davidGCR/depth_estimation_autonomous)  
+  🚗 Implemented a **depth estimation model** for autonomous driving scenarios with state-of-the-art architectures.  
+- [Camera Calibrator](https://github.com/davidGCR/CalibradorCamara)  
+  📸 Created a tool to **calibrate cameras** for better geometric accuracy in image-based tasks.
+
+### **MLOps and Analysis Projects**  
+- [MLOps - CI/CD](https://github.com/davidGCR/Heart-Dissease-Prediction-MLOps-CI-CD/tree/main)  
+  🔄 Designed a CI/CD pipeline for **heart disease prediction models** using Docker, GitHub Actions, and MLflow.  
+- [Support Vector Machines - My Analysis](https://github.com/davidGCR/suport-vector-machines-analysis)  
+  📊 Performed an in-depth analysis of **SVMs** for classification and regression tasks with visualizations.  
+
+---
+
+## 🛠️ Projects: Data Engineering  
+Explore how I design robust and scalable solutions in data engineering:
+
+- [Lambda Conversor](https://github.com/davidGCR/aws_lambda_conversor_xls2csv)  
+  🔄 Serverless **Excel-to-CSV conversion tool** using AWS Lambda for efficient file transformations.  
+- [ETL Serverless](https://github.com/davidGCR/etl-aws-terraform)  
+  🛠️ Built a **serverless ETL pipeline** leveraging AWS and Terraform for automation and scalability.
+
+---
+
+
+<!--
 ## Some of my projects about Machine Learning, NLP, and Computer Vision
 - [Speech Analysis - NLP](https://github.com/davidGCR/speech-analytics-calls-monitoring)
 - [Hiring Bot - NLP](https://github.com/davidGCR/hiring-bot)
@@ -102,7 +142,7 @@ Below, some technologies I have experience:
 - [ETL Serverless](https://github.com/davidGCR/etl-aws-terraform)
 
 and more...
-<!--
+
 **davidGCR/davidGCR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
