@@ -28,8 +28,15 @@ Below, some technologies I have experience:
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFDA44?style=for-the-badge&logo=textpattern&logoColor=white&labelColor=101010)]()
 [![AWS](https://img.shields.io/badge/AWS_Sagemaker-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-FFDA44?style=for-the-badge&logo=plotly&logoColor=white&labelColor=101010)]()
-[![LangChain](https://img.shields.io/badge/LangChain-blue?style=for-the-badge)](https://langchain.com)
-[![Kedro](https://img.shields.io/badge/LangChain-blue?style=for-the-badge)](https://kedro.org/)
+[![LangChain](https://img.shields.io/badge/LangChain-FF9900?style=for-the-badge&logo=langchain&logoColor=white&labelColor=101010)](https://langchain.com/)
+[![LangGraph](https://img.shields.io/badge/LangGraph-333333?style=for-the-badge&logo=graph&logoColor=white&labelColor=101010)](https://github.com/langgraph/langgraph)
+[![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FF5A1F?style=for-the-badge&logo=llama&logoColor=white&labelColor=101010)](https://gpt-index.readthedocs.io/)
+[![Kedro](https://img.shields.io/badge/Kedro-34495E?style=for-the-badge&logo=kedro&logoColor=white&labelColor=101010)](https://kedro.org/)
+[![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)](https://cloud.google.com/vertex-ai)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=101010)](https://streamlit.io/)
+
+
+
 
 ### MLOps:
 [![AWS](https://img.shields.io/badge/AWS_Sagemaker-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
@@ -37,6 +44,9 @@ Below, some technologies I have experience:
 [![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)]()
 [![circleci](https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white&labelColor=101010)]()
 [![Pypi](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white&labelColor=101010)]()
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=101010)](https://kubernetes.io/)
+[![Cloud Build](https://img.shields.io/badge/Cloud%20Build-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)](https://cloud.google.com/build)
+
 
 ### Programming Languages:
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
