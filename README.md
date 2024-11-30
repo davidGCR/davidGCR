@@ -29,6 +29,7 @@ Below, some technologies I have experience:
 [![AWS](https://img.shields.io/badge/AWS_Sagemaker-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-FFDA44?style=for-the-badge&logo=plotly&logoColor=white&labelColor=101010)]()
 [![LangChain](https://img.shields.io/badge/LangChain-blue?style=for-the-badge)](https://langchain.com)
+[![Kedro](https://img.shields.io/badge/LangChain-blue?style=for-the-badge)](https://kedro.org/)
 
 ### MLOps:
 [![AWS](https://img.shields.io/badge/AWS_Sagemaker-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
@@ -74,7 +75,7 @@ Below, some technologies I have experience:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Choqueluque-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/david-g-choqueluque-roman-71a455157/)
 [![googlescholar](https://img.shields.io/badge/googlescholar-David_Choqueluque-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=101010)](https://scholar.google.com/citations?user=6UnwuwcAAAAJ&hl=en)
 
-## Below, some of my projects about Machine Learning and Computer Vision
+## Some of my projects about Machine Learning, NLP, and Computer Vision
 - [Speech Analysis - NLP](https://github.com/davidGCR/speech-analytics-calls-monitoring)
 - [Hiring Bot - NLP](https://github.com/davidGCR/hiring-bot)
 - [MLOps - CI/CD](https://github.com/davidGCR/Heart-Dissease-Prediction-MLOps-CI-CD/tree/main)
